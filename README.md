@@ -1,9 +1,10 @@
 <p align="center"> 𓎢　𓎟　𓎟　𓎟　𓎡 </p>
 
 
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　꒰　　　![](https://komarev.com/ghpvc/?username=cradled&color=9ec3e6)　　　꒱
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　꒰　　　![](https://komarev.com/ghpvc/?username=cradled&color=FF52CB)　　　꒱
 
 　
 
 <p align="center"> My ponytown specific rentry: </p>
 <p align="center"> ... is a wip, again </p>
+<p align="center"> Send me asks in my alterspring tho ok </p>
