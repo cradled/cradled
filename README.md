@@ -6,4 +6,4 @@
 　
 
 <p align="center"> My ponytown specific rentry: </p>
-<p align="center"> https://rentry.co/belaru </p>
+<p align="center"> ... is a wip, again </p>
