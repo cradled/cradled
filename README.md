@@ -6,5 +6,4 @@
 　
 
 <p align="center"> My ponytown specific rentry: </p>
-<p align="center"> ... is a wip, again </p>
-<p align="center"> Send me asks in my alterspring tho ok </p>
+<p align="center"> https://rentry.co/foidcel </p>
